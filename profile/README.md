@@ -14,7 +14,7 @@ Détection des changement entre un geotiff et les données OSM : [OSM Change AI 
 Automatisation de génération de PCG : [GCP extractor](https://github.com/OSMAutoDrone/OSMAutoDrone-GCP-Extractor)
 
 ## Rpanion-server personnalisé
-Serveur de configuration de l'ordinateur companion : [](https://github.com/OSMAutoDrone/Rpanion-server-OSMAutoDrone)
+Serveur de configuration de l'ordinateur companion : [Rpanion fork](https://github.com/OSMAutoDrone/Rpanion-server-OSMAutoDrone)
 *contient aussi l'intégration de l'analyse de qualité d'images (IQA)
 
 ## Guides pour le drone OSM Auto Drone
